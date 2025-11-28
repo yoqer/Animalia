@@ -2,14 +2,14 @@
 
 **URL del Proyecto:** [http://torete.net/animalia](http://torete.net/animalia)
 
-Este proyecto implementa una arquitectura avanzada para el análisis de comportamiento animal y la comunicación multilingüe, utilizando técnicas de Visión por Computadora, Memoria Persistente (Mem0) y Reentrenamiento Distribuido (RL).
+Este proyecto implementa una arquitectura avanzada para el análisis de comportamiento animal y la comunicación multilingüe, utilizando técnicas de Visión por Computadora, Memoria Persistente e Independiente y Reentrenamiento Distribuido (RL).
 
 ## 🚀 Arquitectura del Sistema
 
 El proyecto se compone de dos microservicios principales que se comunican para crear un ciclo de aprendizaje continuo:
 
 1.  **`microservice_vision`**: Analiza el comportamiento animal y la expresividad, utilizando una jerarquía taxonómica compleja para el reentrenamiento.
-2.  **`microservice_video_chat`**: Proporciona un Chat RAG (Retrieval-Augmented Generation) contextualizado en videos, con memoria persistente (Mem0 personalizado) para el usuario.
+2.  **`microservice_video_chat`**: Proporciona un Chat RAG (Retrieval-Augmented Generation) contextualizado en videos, con memoria persistente (Memoria personalizado) para el usuario.
 
 ## ⚙️ Despliegue Local para Usuarios (Uso en el Borde)
 
