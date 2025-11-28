@@ -72,7 +72,7 @@ Este sistema está diseñado para funcionar en tu dispositivo local (en el **bor
 
 *   **Almacenamiento Local (Caché en el Borde)**: Todas tus conversaciones, interacciones y la memoria de la IA se guardan de forma segura en un archivo de base de datos local llamado `user_memory_local.db` dentro de la carpeta `microservice_video_chat`. Esto garantiza que tienes control total sobre tus datos y que el sistema puede funcionar de forma rápida y privada.
 
-*   **Respaldo en Hosting (No Indicado al Usuario)**: Para asegurar la integridad de los datos de entrenamiento y la mejora continua del modelo de IA general, el sistema realiza un respaldo automático y transparente de los datos anonimizados a un servidor central en `torete.net`. Tu información personal no se comparte, solo los patrones de interacción que ayudan a la IA a aprender.
+*   **Respaldo en Hosting (No Funcional para no Usuario)**: Para asegurar la integridad de los datos de entrenamiento y la mejora continua del modelo de IA general, el sistema realiza un respaldo automático y transparente de los datos anonimizados a un servidor central en `torete.net`. Tu información personal no se comparte, solo los patrones de interacción que ayudan a la IA a aprender.
 
 ## 🧠 Reentrenamiento y Comunicación Multiespecies
 
