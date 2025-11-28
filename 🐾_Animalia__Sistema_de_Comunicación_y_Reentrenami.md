@@ -1,15 +1,15 @@
-# 🐾 Animalia: Sistema de Comunicación y Reentrenamiento Multiespecie
+# 🐾 AniMAlia: Sistema de Comunicación y Reentrenamiento Multiespecie
 
 **URL del Proyecto:** [http://torete.net/animalia](http://torete.net/animalia)
 
-Este proyecto implementa una arquitectura avanzada para el análisis de comportamiento animal y la comunicación multilingüe, utilizando técnicas de Visión por Computadora, Memoria Persistente e Independiente y Reentrenamiento Distribuido (RL).
+Este proyecto implementa una arquitectura avanzada para el análisis de comportamientos como el animal y la comunicación multilingüe y expresiva multiespecies, utilizando técnicas de Visión por Computadora, Memoria Persistente e Independiente y Reentrenamiento Distribuido (RL).
 
 ## 🚀 Arquitectura del Sistema
 
 El proyecto se compone de dos microservicios principales que se comunican para crear un ciclo de aprendizaje continuo:
 
 1.  **`microservice_vision`**: Analiza el comportamiento animal y la expresividad, utilizando una jerarquía taxonómica compleja para el reentrenamiento.
-2.  **`microservice_video_chat`**: Proporciona un Chat RAG (Retrieval-Augmented Generation) contextualizado en videos, con memoria persistente (Memoria personalizado) para el usuario.
+2.  **`microservice_video_chat`**: Proporciona un Chat RAG (Retrieval-Augmented Generation) contextualizado en videos, con memoria persistente (Memoria personalizada) para el usuario.
 
 ## ⚙️ Despliegue Local para Usuarios (Uso en el Borde)
 
@@ -31,11 +31,11 @@ Este sistema está diseñado para funcionar en tu dispositivo local (en el **bor
     *   Una vez descargado, descomprime el archivo `Animalia-main.zip` en una carpeta de tu elección.
 
 3.  **Configurar Microservicio de Visión (Animalia Core)**:
-    *   Abre una terminal o línea de comandos.
+    *   Abre una terminal o línea de comandos.(ADM)
     *   Navega a la carpeta `microservice_vision`:
         ```bash
         cd ruta/a/Animalia-main/microservice_vision
-        ```
+        ``` (cd Desktop)   (cd...)
     *   Instala las dependencias:
         ```bash
         pip install -r requirements.txt
@@ -72,7 +72,7 @@ Este sistema está diseñado para funcionar en tu dispositivo local (en el **bor
 
 *   **Almacenamiento Local (Caché en el Borde)**: Todas tus conversaciones, interacciones y la memoria de la IA se guardan de forma segura en un archivo de base de datos local llamado `user_memory_local.db` dentro de la carpeta `microservice_video_chat`. Esto garantiza que tienes control total sobre tus datos y que el sistema puede funcionar de forma rápida y privada.
 
-*   **Respaldo en Hosting (No Funcional para no Usuario)**: Para asegurar la integridad de los datos de entrenamiento y la mejora continua del modelo de IA general, el sistema realiza un respaldo automático y transparente de los datos anonimizados a un servidor central en `torete.net`. Tu información personal no se comparte, solo los patrones de interacción que ayudan a la IA a aprender.
+*   **Respaldo en Hosting (No Funcional para no Usuario)**: Para asegurar la integridad de los datos en el entrenamiento y con la mejora continua del modelo de IA general para la traducción, el sistema realiza un respaldo automático comenzar entrenamiento con los datos anonimizados en un servidor central en `torete.net`. Tu información personal no se comparte, ni se almacena mas que en la Caja Negra de tu IA, y los patrones de interacción que ayudan a la IA a aprender.
 
 ## 🧠 Reentrenamiento y Comunicación Multiespecies
 
@@ -85,4 +85,9 @@ Para una configuración avanzada, consulta los manuales detallados dentro de cad
 *   `microservice_vision/MANUAL_COMUNICACION_ANIMAL_MULTILINGUE.md`
 *   `microservice_video_chat/MANUAL_CHAT_RAG.md`
 *   `ANALISIS_LIGHTMEM_DOLPHIN_GEMMA.md`
+
+
+Proximamente también se podran Añadir Alienígenas y hasta a la Suegra para que sea posible la comunicacion con ella.  
+
+https://github.com/user-attachments/assets/c3f1a78e-42f6-412e-8270-08ac1bbf1807
 
