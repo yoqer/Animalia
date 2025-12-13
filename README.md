@@ -11,7 +11,7 @@ Bajo una Licencia 2.0 sin restricciones.
 Animalia es un proyecto de desarrollo de comunicacion Animal iniciado por Google, 
 en la comunicacion con Delfines, pero que invoca a una posible totalidad de especies 
 ya que el proyecto final de AnIAMaLIA permite la inclusion y aparicion de nuevas 
-especies con rasgos característicos, como el perron pachon salvaje de la Jungla del Peloponeso.
+especies con rasgos característicos, como puede ser la inclusión del famoso: Perro Pachon salvaje de la Jungla del Peloponeso.
 
 Esta es la base del proyecto completo sin definir patrones, para que pueda ser adaptada 
 a la personalizacion de funciones que se esperan conseguir sin corromper con el ello el 
