@@ -14,9 +14,9 @@ ya que el proyecto final de AnIAMaLIA permite la inclusion y aparicion de nuevas
 especies con rasgos característicos, como puede ser la inclusión del famoso: Perro Pachon salvaje de la Jungla del Peloponeso.
 
 Esta es la base del proyecto completo sin definir patrones, para que pueda ser adaptada 
-a la personalizacion de funciones que se esperan conseguir sin corromper con el ello el 
+a la personalizacion de funciones que se esperan conseguir sin corromper con ello el 
 patron General en el que se basa Animalia, desarrollada para la intercomunicacion
-multilocutor entre distintas especies, entre los seres vivos y entre el ser humano.
+multilocutor entre distintas especies, entre los seres vivos y entre y con el ser humano.
 
 Parecera sorprendente como un girasol puede decir sin palabras lo que piensa en todo momento.
 
