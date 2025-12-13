@@ -23,23 +23,23 @@ Parecera sorprendente como un girasol puede decir sin palabras lo que piensa en 
 Permitir sus decisiones a tu perro valorando su edad real es algo que solo de ti depende.
 
 
-El proyecto AniAmalia carga sobre la identificación del Espejin Magico; WAI.Cam, para la identificación automatica.
+El proyecto AlIAmalIA carga sobre la identificación del Espejin Magico; WAI.Cam, para la identificación automatica.
 
 Pero el mismo es totalmente autonomo para los usuarios y de completa independencia para dotar de la mayor 
 privacidad y seguridad al sistema que es totalmente descentralizado y cualquiera puede usar en su web, o puede descargar y usar 
-con completa seguridad y privacidad de sus dispositivos, como opcion para usuarios recogidos, para la 
-interoperatibilidad de las comunicaciones de lenguajes diversos, con un entrenamiento posible en el borde o web, 
-para completas garantias de seguridad y privacidad de usuarios descentralizados en completo anonimato.
+con completa seguridad y en privacidad de sus dispositivos, como opcion para usuarios recogidos, para la 
+interoperatibilidad de las comunicaciones de lenguajes diversos, con un entrenamiento posible en el local o la web, 
+para dar completas garantias de seguridad y privacidad de usuarios descentralizados en el completo anonimato.
 
-AniAmalia es de Codigo Abierto y cualquiera puede personalizar su extension, pero lógicamente los patrones 
+AlIAmalIA es de Codigo Abierto y cualquiera puede personalizar su extension, pero lógicamente los patrones 
 de Seguridad y Privacidad se pueden variar y utilizar para otros fines ajenos: publicidad, perfiles sociologicos, 
 estudios poblacionales y de comportamiento, que conlleva unos riesgos inerentes a la dependencia de plataformas 
 de operacion centralizada, que menoscaben el compromiso de la Comunidad Open Source, es por ello que les animamos 
-a que usen el proyecto AniAmalia, desde la Web 5.0 oficial en relaciones de Servicios desde la WéB.com y la WC.com.
+a que usen el proyecto AlIAmalIA, desde la Web 5.0 oficial en relaciones de Servicios desde la WéB.com y la WC.com.
 
 
 Puedes ver y usar otros proyectos también Open Source, 
-como el primer Navegador de Voz de comandos para navegacion 
+como nuestro primer Navegador de Voz de comandos para navegacion 
 interna dentro de las webs.
 
 Y los ultimos en Modelos T,
