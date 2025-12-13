@@ -28,12 +28,12 @@ El proyecto AlIAmalIA carga sobre la identificación del Espejin Magico; WAI.Cam
 Pero el mismo es totalmente autonomo para los usuarios y de completa independencia para dotar de la mayor 
 privacidad y seguridad al sistema que es totalmente descentralizado y cualquiera puede usar en su web, o puede descargar y usar 
 con completa seguridad y en privacidad de sus dispositivos, como opcion para usuarios recogidos, para la 
-interoperatibilidad de las comunicaciones de lenguajes diversos, con un entrenamiento posible en el local o la web, 
-para dar completas garantias de seguridad y privacidad de usuarios descentralizados en el completo anonimato.
+interoperatibilidad de las comunicaciones de lenguajes diversos, con un entrenamiento posible desde en local, a la web; 
+para dar completas garantias de seguridad y privacidad de usuarios descentralizados y en el completo anonimato.
 
 AlIAmalIA es de Codigo Abierto y cualquiera puede personalizar su extension, pero lógicamente los patrones 
 de Seguridad y Privacidad se pueden variar y utilizar para otros fines ajenos: publicidad, perfiles sociologicos, 
-estudios poblacionales y de comportamiento, que conlleva unos riesgos inerentes a la dependencia de plataformas 
+estudios poblacionales y de seguimiento y comportamiento; que conllevan unos riesgos inerentes en la dependencia de plataformas 
 de operacion centralizada, que menoscaben el compromiso de la Comunidad Open Source, es por ello que les animamos 
 a que usen el proyecto AlIAmalIA, desde la Web 5.0 oficial en relaciones de Servicios desde la WéB.com y la WC.com.
 
