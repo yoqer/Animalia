@@ -38,6 +38,9 @@ de operacion centralizada, que menoscaben el compromiso de la Comunidad Open Sou
 a que usen el proyecto AlIAmalIA, desde la Web 5.0 oficial en relaciones de Servicios desde la WéB.com y la WC.com.
 
 
+https://github.com/yoqer/AlIAmAlIA/blob/main/README.md
+
+
 Puedes ver y usar otros proyectos también Open Source, 
 como nuestro primer Navegador de Voz de comandos para navegacion 
 interna dentro de las webs.
