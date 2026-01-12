@@ -24,7 +24,7 @@ Parecera sorprendente como un girasol puede decir sin palabras lo que piensa en 
 
 ![2438647](https://github.com/user-attachments/assets/2d33de05-b0f3-4f68-be27-0c54371d454e)
 
-[![2438647](https://github.com/user-attachments/assets/2d33de05-b0f3-4f68-be27-0c54371d454e)](https://github.com/user-attachments/assets/eb516002-bdbe-4740-88e7-28fa37f50648) 
+[https://github.com/user-attachments/assets/2d33de05-b0f3-4f68-be27-0c54371d454e](https://github.com/user-attachments/assets/eb516002-bdbe-4740-88e7-28fa37f50648) 
 
 
 Permitir sus decisiones a tu perro valorando su edad real es algo que solo de ti depende.
