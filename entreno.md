@@ -1,4 +1,4 @@
-** Creamos Compatibilidad para Agentes de Escritorio Asistentes Personales **
+# ** Creamos Compatibilidad para Agentes de Escritorio Asistentes Personales **
 
 Compatibilidad para entrenamiento y uso con Asistentes Open Source del estilo AI Assistent, como OpenCraw, el Pingüino y semejantes que puedan usar nuestras IAs locales reentrenadas, por conexion con API y similares.
 
