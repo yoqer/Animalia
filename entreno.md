@@ -4,7 +4,7 @@
 Hemos implementado la compatibilidad para usarse reentrenamientos 
 con Asistentes Locales, como AI Asistent, de exposición de APIs, como estos como nuestro Pingüino y el famosisimo OpenCraw
 (CrawBot, MoltBot) y todo ello permitiendo un entrenamiento privado de IA en local o en nuestro espacio de su usuario de usuarios WC, con un entrenamiento 
-totalmente privado de datos en local, bases de datos variadas, distintos almacenajes, como sus espacios de usuarios de almacenajes de nuestra librería. 
+totalmente privado de datos en local, bases de datos variadas, distintos almacenajes, como sus espacios de usuarios de almacenajes de la Gran Librería. 
 
 Para entrenar con las ultimas mejoras de librerias de entrenamiento, Fine-tuning, combinado de modelos; con sus datos de asistentes y todo el conocimiento que desee que cuenten en sus IAs finetuneadas, todo gratis 
 desde nuestra Aplicación o en sus máquinas locales, o para infimenas cantidades usando subcontratacion 
