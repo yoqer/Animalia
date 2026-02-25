@@ -8,7 +8,7 @@
 
 El **Orquestador de IA** es un sistema que permite seleccionar dinámicamente qué proveedor de IA usar para cada solicitud. Soporta:
 
-- ✅ **OpenAI/GPT**: Modelos GPT-4 y GPT-3.5
+- ✅ **OpenAI/GPT**: Modelos GPT-4, GPT-3.5 y compatibles con API de OpenAI.
 - ✅ **Manus API**: Modelos de IA de Manus
 - ✅ **LLM Local**: Modelos ejecutados localmente (Ollama, etc.)
 - ✅ **Agentes Personalizados**: Clawbot, asistentes custom, etc.
