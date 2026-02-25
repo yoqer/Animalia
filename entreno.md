@@ -2,7 +2,7 @@
 
 
 Hemos implementado la compatibilidad para usarse reentrenamientos 
-con Asistentes Locales, como AI Asistent, de exposición de APIs, como estos como nuestro Pingüino y el famosisimo OpenCraw
+con Asistentes Locales, como [AI Assistent](http://GitHub.com/yoqer/AI_Assintent), de exposición de APIs, como estos como nuestro Pingüino y el famosisimo OpenCraw
 (CrawBot, MoltBot) y todo ello permitiendo un entrenamiento privado de IA en local o en nuestro espacio de su usuario de usuarios WC, con un entrenamiento 
 totalmente privado de datos en local, bases de datos variadas, distintos almacenajes, como sus espacios de usuarios de almacenajes en Biblioteca.
 
