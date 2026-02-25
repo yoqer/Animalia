@@ -1068,17 +1068,3 @@ CREATE TABLE garras_training_data (
 4. **Entrenamiento** local es viable con Ollama o LMstudio
 5. **Docker** permite despliegue reproducible y escalable
 6. **Integración** con Animalia es directa mediante APIs
-
-### Próximos Pasos
-
-1. Implementar conectores de Garras en Animalia Web
-2. Crear tablas de sincronización bidireccional
-3. Automatizar extracción y entrenamiento
-4. Desplegar en Docker para producción
-5. Crear dashboard de monitoreo de sincronización
-
----
-
-**Documento generado**: 2024-02-25
-**Versión**: 1.0
-**Autor**: Investigación Animalia
